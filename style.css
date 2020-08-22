@@ -1,0 +1,15 @@
+body {
+    margin: 0px;
+    background-color: chocolate;
+    font-family:Monotype Corsiva;
+    color:darkred
+}
+a {
+    border:solid;
+    font-family:Jokerman;
+}
+ 
+img,h1 {
+    border:solid;
+   
+}
